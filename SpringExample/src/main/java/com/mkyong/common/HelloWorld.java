@@ -14,5 +14,6 @@ public class HelloWorld
 	
 	public void printHello() {
 		System.out.println("Hello ! " + name);
+		System.out.println("Have a nice day...");
 	}
 }
